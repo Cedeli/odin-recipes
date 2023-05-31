@@ -1,3 +1,3 @@
-# The Oding Project: Recipes
+# The Odin Project: Recipes
 ### Foundations Course
 A simple recipe website.
