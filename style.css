@@ -6,3 +6,9 @@ h1 {
     color: rgb(255, 255, 255);
     font-family: 'Courier New', Courier, sans-serif;
 }
+
+.link {
+    text-decoration: underline;
+    color: rgb(255, 255, 255);
+    font-family: 'Courier New', Courier, sans-serif;
+}
