@@ -17,6 +17,16 @@ p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+ul {
+    color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ol {
+    color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 .link {
     text-decoration: underline;
     color: rgb(255, 255, 255);
