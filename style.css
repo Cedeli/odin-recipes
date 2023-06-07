@@ -33,9 +33,13 @@ ol {
   margin-left: 25px;
 }
 
+.links {
+  margin-left: 15px;
+}
+
 .links a {
   text-decoration: underline;
   color: rgb(255, 255, 255);
   font-family: 'Courier New', Courier, sans-serif;
-  margin-left: 25px;
+  margin-left: 10px;
 }
