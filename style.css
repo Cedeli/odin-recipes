@@ -27,6 +27,12 @@ ol {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+.site-title {
+  color: rgb(255, 255, 255);
+  font-family: 'Courier New', Courier, sans-serif;
+  margin-left: 25px;
+}
+
 .links a {
   text-decoration: underline;
   color: rgb(255, 255, 255);
