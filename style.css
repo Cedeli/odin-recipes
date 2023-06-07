@@ -33,11 +33,11 @@ ol {
   margin-left: 25px;
 }
 
-.links {
+.recipes {
   margin-left: 15px;
 }
 
-.links a {
+.recipes a {
   text-decoration: underline;
   color: rgb(255, 255, 255);
   font-family: 'Courier New', Courier, sans-serif;
