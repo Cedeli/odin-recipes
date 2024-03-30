@@ -2,26 +2,14 @@ body {
   background-color: rgb(50, 60, 75);
 }
 
-h1 {
-  color: rgb(255, 255, 255);
-  font-family: 'Courier New', Courier, sans-serif;
-}
-
+h1,
 h2 {
   color: rgb(255, 255, 255);
   font-family: 'Courier New', Courier, sans-serif;
 }
 
-p {
-  color: rgb(255, 255, 255);
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-
-ul {
-  color: rgb(255, 255, 255);
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-
+p, 
+ul,
 ol {
   color: rgb(255, 255, 255);
   font-family: Verdana, Geneva, Tahoma, sans-serif;
